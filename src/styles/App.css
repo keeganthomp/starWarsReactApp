@@ -1,0 +1,24 @@
+.App {
+  margin: 10px;
+}
+
+.cardContainer {
+  margin: 0 auto;
+  width: 130%;
+}
+
+.padding {
+  padding: 25px;
+}
+
+.margin {
+  margin: 1%;
+}
+
+.card{
+  margin: 5px;
+}
+
+.form{
+  text-align: center;
+}
